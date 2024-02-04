@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 python-AGS4
+geopandas

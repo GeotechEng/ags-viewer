@@ -19,6 +19,5 @@ Notes
 - Select the Coordinate Reference System (CRS) for the coordinates the uses
 - Select the header containing the elevation 
 - Run the file, results are presented in the Report Page tab 
-- An AGS check report is run as well to identify any errors or warnings, this is reported on the Check Page tab
 """
 )

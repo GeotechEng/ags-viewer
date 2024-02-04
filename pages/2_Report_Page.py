@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit.logger import get_logger
 import numpy as np
 import pandas as pd
+import python_ags4
 from python_ags4 import AGS4
 
 st.set_page_config(
